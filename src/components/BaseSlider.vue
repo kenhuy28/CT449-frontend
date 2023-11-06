@@ -3,10 +3,10 @@
       <div class="slider-content">
          <Splide :options="options" aria-label="My Favorite Images">
             <SplideSlide>
-               <img src="http://cdn.shopify.com/s/files/1/0538/7249/2712/collections/Huffkins_Biscuits_1200x1200.jpg?v=1665651984" alt="Sample 2" />
+               <img src="https://paddy.vn/cdn/shop/files/1bf184505cef83b1dafe.jpg?v=1683862184&width=1880" alt="Sample 2" />
             </SplideSlide>
             <SplideSlide>
-               <img src="https://cdn.shopify.com/s/files/1/0631/8804/1949/collections/collection-banner-2_d8208d36-220a-4459-91d6-174e9fb64f0e.jpg?v=1649063431&width=1500" alt="Sample 1" />
+               <img src="https://paddy.vn/cdn/shop/files/z4590600089006_d0874eb90c93aeff6393e6f117af9129.jpg?v=1691635383&width=1880" alt="Sample 1" />
             </SplideSlide>
 
          </Splide>

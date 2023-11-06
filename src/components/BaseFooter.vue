@@ -12,11 +12,11 @@
                      </li>
                      <li class="phone">
                         <i class="fa-solid fa-phone icon-phone"></i>
-                        <a style="color: #fff;text-decoration: none;" href="tel:+84 56668888">+84 56668888</a>
+                        <a style="color: #fff;text-decoration: none;" href="tel:+84 2016967">+84 2016967</a>
                      </li>
                      <li class="email">
                         <i class="fa-solid fa-envelope icon-email"></i>
-                        <a style="color: #fff;text-decoration: none;" href="mailto:kiettruong@gmail.com">kiettruong@gmail.com</a>
+                        <a style="color: #fff;text-decoration: none;" href="mailto:ct44907@gmail.com"> ct44907@gmail.com</a>
 
                      </li>
                   </ul>
@@ -76,7 +76,7 @@ export default {};
 }
 
 .first-footer {
-   background-color: #E38B29;
+   background-color: #234bbb;
    color: #fff;
    padding: 20px;
 }

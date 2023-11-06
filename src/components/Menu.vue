@@ -151,7 +151,7 @@ export default {
    margin-top: 15px;
    font-size: 20px;
    font-weight: bold;
-   color: #E38B29;
+   color: #234bbb;
 }
 
 .product-grid {
@@ -202,12 +202,12 @@ export default {
 }
 
 .btn-cart {
-   background-color: #E38B29;
+   background-color: #234bbb;
    color: #fff;
    border: 0;
    border-radius: 3px;
 }
 
 .btn-cart:hover {
-   background-color: #be731c;
+   background-color:#234bbb;
 }</style>

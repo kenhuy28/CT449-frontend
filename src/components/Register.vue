@@ -185,14 +185,14 @@ export default {
 .social_icon span {
    font-size: 60px;
    margin-left: 10px;
-   color: #E38B29;
+   color:#234bbb;
 }
 .social_icon span:hover {
    color: white;
    cursor: pointer;
 }
 .card-header h3 {
-   color: #E38B29;
+   color: #234bbb;
 }
 .card-header{
    background-color: white;
@@ -206,7 +206,7 @@ export default {
 .input-group-prepend span {
    width: 50px;
    background-color: white;
-   color: #E38B29;
+   color: #234bbb;
    border: 0 !important;
 }
 input:focus {
@@ -214,15 +214,15 @@ input:focus {
    box-shadow: 0 0 0 0 !important;
 }
 .login_btn {
-   color: #E38B29;
+   color: #234bbb;
    border-radius: 20px;
-   border: 1px solid #E38B29;
+   border: 1px solid #234bbb;
    width: 50%;
    margin-left: 25%;
 }
 .login_btn:hover {
    color: white;
-   background-color: #E38B29;
+   background-color:#234bbb;
 }
 .links {
    color: white;
@@ -232,11 +232,11 @@ input:focus {
    border-radius: 10px;
 }
 .links {
-   color: #E38B29;
+   color: #234bbb;
 }
 .links a {
    margin-left: 4px;
    text-decoration: none;
-   color:#E38B29;
+   color:#234bbb;
 }
 </style>
